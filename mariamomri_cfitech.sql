@@ -96,7 +96,7 @@ CREATE TABLE IF NOT EXISTS `personnel` (
 --
 
 INSERT INTO `personnel` (`id`, `pseudo`, `mot_de_passe`, `nom`, `prenom`) VALUES
-(1, 'doeking', 'cfitech', 'Dunia', 'Julien'),
+(1, 'Julien', 'cfitech', 'Dunia', 'Julien'),
 (2, 'Mary', 'cfitech', 'Rossi', 'Myriam');
 
 -- --------------------------------------------------------
