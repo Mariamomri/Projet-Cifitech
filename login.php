@@ -57,7 +57,7 @@ require "header.php";
     </form>
 
     <p style="margin-top: 20px; color: #883823; font-size: 0.9rem;">
-        💡 Identifiants de test : (<strong>doeking</strong> / <strong>cfitech</strong>)
+        💡 Identifiants de test : (<strong>Julien</strong> / <strong>cfitech</strong>)
     </p>
 </div>
 
